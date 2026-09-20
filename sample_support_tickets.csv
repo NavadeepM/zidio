@@ -1,0 +1,5 @@
+content,channel,customer_label,created_at
+"Webhooks failed to trigger for high-priority support tickets created after 5 PM EST.","Support Ticket","DevOps Support","2026-08-25"
+"Customer support response time was incredible! Resolved our SSO SAML integration issue in under 15 minutes.","Sales Call","Enterprise Customer B","2026-08-24"
+"Filter drop-down in Feedback Inbox resets page pagination whenever a new sentiment filter is selected.","Support Ticket","QA Specialist Tom","2026-08-23"
+"Rest API authentication token expired unexpectedly after 24 hours despite setting 7-day TTL.","Community Post","API Integrator Luke","2026-08-22"
